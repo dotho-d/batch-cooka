@@ -15,7 +15,7 @@ import { useFonts } from 'expo-font';
 const customFonts = {
   RockSalt: require('./asset/fonts/RockSalt-Regular.ttf'),
   LovedbytheKing: require('./asset/fonts/LovedbytheKing-Regular.ttf'),
-  Gruppo: require('./asset/fonts/Gruppo-Regular.ttf'),
+  Gruppo: require('./asset/fonts/Gruppo-Regular.ttf')
 };
 
 export default function WelcomeScreen() {
